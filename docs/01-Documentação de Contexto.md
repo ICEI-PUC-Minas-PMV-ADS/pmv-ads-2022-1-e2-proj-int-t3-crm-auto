@@ -1,46 +1,44 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Cada dia que passa, a informação tem se tornado o ativo mais importante na vida de pessoas e das oficinas mecânicas. Inseridas num cenário  altamente competitivo, as oficinas mecânicas primam pelo alcance da vantagem competitiva.
+
+As relações entre oficinas mecânicas e seus clientes, necessitam de uma maior transparência para o aumento da confiança entre ambos. E as informações precisas e obtidas e fornecidas no momento exato são fundamentais para alcançar este objetivo.
+
+Diante disso, torna-se fundamental que existam ferramentas de informação e mecanismo que permitam ao usuário acessar os seus dados, serviços e produtos contratados.
+
+Neste contexto, surge o CRM (Custumer Relationship Management) como estratégia de negócio que representa uma solução viável para o estreitamento das relações entre clientes e oficinas.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Obter o controle dos seus clientes usando planilhas e agendas é possível, contudo, as informações captadas muitas vezes ficam dispersas, desorganizadas e acabam por dificultando a tomada de decisões para promover a oficina mecânica junto ao cliente. À medida que a empresa cresce, este tipo de ferramenta improvisada vai se tornando cada vez mais um empecilho para o sucesso da empresa.
+ 
+Portanto, o problema que se busca resolver com este projeto é a substituição da diversificação massiva da utilização de planilhas ou sistemas internos pouco flexíveis que prejudicam o acompanhamento das oportunidades. E, portanto, o CRM é uma solução prática e eficaz.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+A aplicação WEB, CRMAuto, tem como objetivo principal disponibilizar para as oficinas mecânicas todas as informações pertinentes aos clientes e os seus serviços solicitados.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O sistema terá orientação mais voltada para os mecânicos e o setor de relacionamento com o cliente, ajudando a agilizar a emissão das propostas e fechamento das mesmas dentro da própria plataforma.
+
+Como objetivos específicos, podemos ressaltar:
+
+> - Fornecer ao cliente acesso fácil e completo ao orçamento sobre as demandas solicitadas para o reparo do seu veículo;
+> - Permitir ao cliente que através da plataforma, ele defina quais os serviços serão realizados de acordo com a proposta da oficina;
+> - Acompanhamento em tempo real dos serviços que estão sendo realizados;
+> - Solicitar serviços extras.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O vínculo construído entre a oficina e seus clientes é tão importante quanto a qualidade do serviço e a competitividade do preço. E boa parte do seu sucesso depende das estratégias que são utilizadas para conquistar e manter a satisfação dos clientes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Imagine que, atualmente, há uma infinidade de empresas onde eles podem buscar os produtos e serviços pelos quais se interessam. Encontrá-las está à distância de um clique. É possível pedir recomendações ou pesquisar diversos negócios na internet rapidamente. Além disso, também é possível acessar o mundo online para fazer elogios e reclamações, impulsionando ou atrapalhando os resultados do empreendimento.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diante de todas essas particularidades, os donos de empresas têm se preocupado cada vez mais em garantir a satisfação do consumidor. Afinal, um problema não resolvido pode não apenas acarretar a perda de um cliente, mas provocar um marketing negativo sobre a imagem que o negócio vem construindo.
+
+Nesse sentido, podemos dizer que a excelência no atendimento ao cliente na oficina mecânica está despontando como um dos diferenciais competitivos mais centrais para um empreendedor. E a tendência é que isso se aprofunde cada vez mais nos próximos anos.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Estabelecemos que o público alvo são as oficinas mecânica automotivas que desejam ter uma plataforma que lhes permitam estarem sempre atualizados em relação aos serviços contratados pelos seus clientes, além de ser um canal que sane as principais dúvidas, os direcionando de forma correta na tomada de decisões.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Esta ferramenta permitirá o aprimoramento no atendimento ao cliente. Ela ajudará os mecânicos e gerentes comerciais a atingirem todo o seu potencial com mais produtividade e aproveitando seu tempo da melhor forma.
