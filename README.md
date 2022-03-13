@@ -12,7 +12,7 @@ O projeto consiste em um Sistema de Gerenciamento de Clientes (CRM - _Customer R
 
 * Allana Tavares Bastos
 * Ciro Hideki
-* Júlio
+* Júlio Lustosa
 * Mariane Serapião
 * Mislene Tavares
 * Rafaela Souza    
